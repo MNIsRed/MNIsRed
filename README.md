@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Android Developer;
+I'm a Android Developer  
 I'm currently learning Flutter
 
 ![MNIsRed's Github Starts](https://github-readme-stats.vercel.app/api?username=MNIsRed&show_icons=true&count_private=true&hide_title=true)
