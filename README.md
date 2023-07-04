@@ -2,8 +2,8 @@
 I'm a Android Developer  
 I'm currently learning Flutter
 
-![MNIsRed's Github Starts](https://github-readme-stats.vercel.app/api?username=MNIsRed&show_icons=true&count_private=true&hide_title=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MNIsRed&layout=compact&exclude_repo=MNIsRed.github.io)
+![MNIsRed's Github Starts](https://readmestats.999857.xyz/api?username=MNIsRed&show_icons=true&count_private=true&hide_title=true)
+![Most Used Languages](https://readmestats.999857.xyz/api/top-langs/?username=MNIsRed&layout=compact&exclude_repo=MNIsRed.github.io)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MNIsRed&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  -->
 <!--
